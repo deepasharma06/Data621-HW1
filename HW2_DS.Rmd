@@ -17,7 +17,7 @@ library(ggplot2)
 ```
 
 
-## 1. Download the classification output data set (attached in Blackboard to the assignment).
+## 1. Loaded classification data set from GitHub.
 
 ```{r}
 data<- read.csv("https://raw.githubusercontent.com/deepasharma06/Data621-HW2/main/classification-output-data.csv")
