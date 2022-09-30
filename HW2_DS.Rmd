@@ -151,7 +151,7 @@ specificity = function(data, predicted_col_name, actual_col_name) {
 print(paste0("Specificity: ", specificity(data, 'scored.class', 'class')))
 ```
 
-
+Deepa added for test 
 
 
 ```{r}
