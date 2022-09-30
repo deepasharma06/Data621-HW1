@@ -1,4 +1,4 @@
----
+ ---
 title: "HW2_DS"
 author: "Deepa"
 date: "2022-09-26"
@@ -151,7 +151,7 @@ specificity = function(data, predicted_col_name, actual_col_name) {
 print(paste0("Specificity: ", specificity(data, 'scored.class', 'class')))
 ```
 
-
+Deepa added number 5 and 6 
 
 
 ```{r}
